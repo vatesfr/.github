@@ -14,13 +14,7 @@ We are experts in the virtualization industry with 10 years of existence, delive
 We build a complete secure and open virtualization stack, see for yourself.
 
 
-<table>
-    <thead>
-        <tr>
-            <th>Solution<br></th>
-            <th>Logo</th>
-        </tr>
-    </thead>
+<table style="border: none;">
     <tbody>
         <tr>
             <td><h3>🚀 XCP-ng</h3><br>Our turnkey open source virtualization platform, based on Xen.<br><br>
@@ -36,35 +30,30 @@ We build a complete secure and open virtualization stack, see for yourself.
                 <li>Fully aGPLv3</li>
             <td><img src="https://content.vates.tech/assets/productslogo/xo-logo.png"></td>
         </tr>
+        <tr>
+            <td><h3>🛸 XO Proxy</h3><br>Scale your backup and/or span your infrastructure all around the world without needing tunnels.<br><br>
+            <ul>
+                <li><a href="https://github.com/vatesfr/xen-orchestra">Github</a></li>
+                <li>Fully aGPLv3</li>
+            <td><img src="ttps://content.vates.tech/assets/productslogo/xoproxy-logo.png"></td>
+        </tr>
+        <tr>
+            <td><h3>🔭 XO Lite</h3><br>Integrated local and lightweight solution to manage a local XCP-ng pool.<br><br>
+            <ul>
+                <li><a href="https://github.com/vatesfr/xen-orchestra">Github</a></li>
+                <li>Fully aGPLv3</li>
+            <td><img src="https://content.vates.tech/assets/productslogo/xolite-logo.png"></td>
+        </tr>
+        <tr>
+            <td><h3>☄️ XOSTOR</h3><br>Hyperconvergence stack for XCP-ng, based on LINSTOR from LINBIT.<br><br>
+            <ul>
+                <li><a href="https://github.com/xcp-ng/sm/">Github</a></li>
+                <li>Fully aGPLv3</li>
+            <td><img src="https://content.vates.tech/assets/productslogo/xostor-logo.png"></td>
+        </tr>
     </tbody>
 </table>
 
-
-### 🛸 XO Proxy
-
-Scale your backup and/or span your infrastructure all around the world without needing tunnels.
-
-![XCP-ng logo](https://content.vates.tech/assets/productslogo/xoproxy-logo.png)
-
-* [Github repository](https://github.com/vatesfr/xen-orchestra)
-* Fully aGPLv3
-
-### 🔭 XO Lite
-
-Integrated local and lightweight solution to manage a local XCP-ng pool.
-
-![XCP-ng logo](https://content.vates.tech/assets/productslogo/xolite-logo.png)
-
-* [Github repository](https://github.com/vatesfr/xen-orchestra)
-* Fully aGPLv3
-
-### ☄️ XOSTOR
-
-Hyperconvergence stack for XCP-ng, based on LINSTOR from LINBIT.
-
-![XCP-ng logo](https://content.vates.tech/assets/productslogo/xostor-logo.png)
-
-* [Github repository](https://github.com/xcp-ng/sm/)
 
 ## 💬 Community
 
