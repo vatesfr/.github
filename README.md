@@ -1,7 +1,4 @@
-<h2 align="center"><b>Vates</b></h2>
-<p align="center"><b>Open Infrastructure Made Simple</b></p>
-
-![](https://repository-images.githubusercontent.com/710736815/395f8222-d465-4d9f-b452-f684c92fb172)
+[![Vates Open Infrastructure made simple](https://repository-images.githubusercontent.com/710736815/395f8222-d465-4d9f-b452-f684c92fb172)](https://vates.tech)
 
 ## 🧑‍🚀 Who we are
 
@@ -11,7 +8,7 @@ We are experts in the virtualization industry with 10 years of existence, delive
 
 ## ⚡ What we do
 
-We build a complete secure and open virtualization stack, see for yourself.
+We build a completly secure and open virtualization stack, see for yourself.
 
 
 <table style="border: none;">
