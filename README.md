@@ -23,24 +23,22 @@ We build a complete secure and open virtualization stack, see for yourself.
     </thead>
     <tbody>
         <tr>
-            <td><h4>🚀 XCP-ng</h4><br>Our turnkey open source virtualization platform, based on Xen.<br><br>
+            <td><h3>🚀 XCP-ng</h3><br>Our turnkey open source virtualization platform, based on Xen.<br><br>
             <ul>
                 <li><a href="https://github.com/xcp-ng">Github</a></li>
                 <li>Hosted in the Linux Foundation within the Xen Project</li>
             <td><img src="https://content.vates.tech/assets/productslogo/xcpng-logo.png"></td>
         </tr>
+        <tr>
+            <td><h3>🛰️ Xen Orchestra</h3><br>The centralized management, orchestration, backup and cloud-enabler platform for XCP-ng.<br><br>
+            <ul>
+                <li><a href="https://github.com/vatesfr/xen-orchestra">Github</a></li>
+                <li>Fully aGPLv3</li>
+            <td><img src="https://content.vates.tech/assets/productslogo/xo-logo.png"></td>
+        </tr>
     </tbody>
 </table>
 
-
-### 🛰️ Xen Orchestra
-
-The centralized management, orchestration, backup and cloud-enabler platform for XCP-ng.
-
-![XCP-ng logo](https://content.vates.tech/assets/productslogo/xo-logo.png)
-
-* [Github repository](https://github.com/vatesfr/xen-orchestra)
-* Fully aGPLv3
 
 ### 🛸 XO Proxy
 
