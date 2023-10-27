@@ -23,8 +23,11 @@ We build a complete secure and open virtualization stack, see for yourself.
     </thead>
     <tbody>
         <tr>
-            <td>### 🚀 XCP-ng<br><br>Our turnkey open source virtualization platform, based on Xen.<br><br>* [Github organization](<span style="text-decoration:underline">https://github.com/xcp-ng/</span>)<br>* Hosted in the Linux Foundation within the Xen Project<br>* Various OSI licenses</td>
-            <td>![<br>XCP-ng logo<br>](<br><span style="text-decoration:underline">https://content.vates.tech/assets/productslogo/xcpng-logo.png</span><br>)</td>
+            <td><h4>🚀 XCP-ng</h4><br>Our turnkey open source virtualization platform, based on Xen.<br><br>
+            <ul>
+                <li><a href="https://github.com/xcp-ng">Github</a></li>
+                <li>Hosted in the Linux Foundation within the Xen Project</li>
+            <td><img src="https://content.vates.tech/assets/productslogo/xcpng-logo.png"></td>
         </tr>
     </tbody>
 </table>
