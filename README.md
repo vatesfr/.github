@@ -13,15 +13,17 @@ We are experts in the virtualization industry with 10 years of existence, delive
 
 We build a complete secure and open virtualization stack, see for yourself.
 
-### 🚀 XCP-ng
+
+| Solution  | Logo |
+| ------------- | ------------- |
+| ### 🚀 XCP-ng
 
 Our turnkey open source virtualization platform, based on Xen.
 
-![XCP-ng logo](https://content.vates.tech/assets/productslogo/xcpng-logo.png)
-
 * [Github organization](https://github.com/xcp-ng/)
 * Hosted in the Linux Foundation within the Xen Project
-* Various OSI licenses
+* Various OSI licenses  | ![XCP-ng logo](https://content.vates.tech/assets/productslogo/xcpng-logo.png)  |
+
 
 ### 🛰️ Xen Orchestra
 
