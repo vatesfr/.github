@@ -1,7 +1,7 @@
 <h2 align="center"><b>Vates</b></h2>
 <p align="center"><b>Open Infrastructure Made Simple</b></p>
 
-![]https://repository-images.githubusercontent.com/710736815/395f8222-d465-4d9f-b452-f684c92fb172)
+![](https://repository-images.githubusercontent.com/710736815/395f8222-d465-4d9f-b452-f684c92fb172)
 
 ## 🧑‍🚀 Who we are
 
