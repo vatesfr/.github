@@ -53,6 +53,16 @@ We build a completly secure and open virtualization stack, see for yourself.
                 <li>GPLv3</li>
             <td><img src="https://content.vates.tech/assets/productslogo/xostor-logo.png"></td>
         </tr>
+        <tr>
+            <td><h3>⚙️ DevOps Tools</h3> Integrate Xen Orchestra with many other solutions and infrastructure-as-code tools.<br><br><br>
+            <ul>
+                <li><a href="https://github.com/vatesfr/terraform-provider-xenorchestra/">Terraform / OpenTofu provider</a></li>
+                <li><a href="https://github.com/vatesfr/pulumi-xenorchestra/">Pulumi provider</a></li>
+                <li><a href="https://github.com/vatesfr/packer-plugin-xenserver/">Packer plugin</a></li>
+                <li><a href="https://github.com/vatesfr/xo-powershell">PowerShell module</a></li>
+                <li><a href="https://docs.ansible.com/ansible/latest/collections/community/general/xen_orchestra_inventory.html">Ansible dynamic inventory</a></li>    
+            <td><img src="https://content.vates.tech/assets/productslogo/xo-logo.png"></td>
+        </tr>
     </tbody>
 </table>
 
