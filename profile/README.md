@@ -60,6 +60,7 @@ We build a completly secure and open virtualization stack, see for yourself.
                 <li><a href="https://github.com/vatesfr/pulumi-xenorchestra/">Pulumi provider</a></li>
                 <li><a href="https://github.com/vatesfr/packer-plugin-xenserver/">Packer plugin</a></li>
                 <li><a href="https://github.com/vatesfr/xo-powershell">PowerShell module</a></li>
+                <li><a href="https://github.com/vatesfr/xenorchestra-go-sdk">Xen Orchestra Go SDK</a></li>
                 <li><a href="https://docs.ansible.com/ansible/latest/collections/community/general/xen_orchestra_inventory.html">Ansible dynamic inventory</a></li>
                 <li>Various licenses</i>
             <td><img src="https://content.vates.tech/assets/productslogo/xo-logo.png"></td>
